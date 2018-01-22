@@ -1,0 +1,18 @@
+{
+    "name": "dileetest002/mypackage",
+    "description": "이동일 테스트 패키지 변경 테스트",
+    "authors": [
+        {
+            "name": "dilee",
+            "email": "dileetest002@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "autoload": {
+        "psr-4" : {
+            "Dilee\\Package\\" : "Dilee/Package"
+        }
+    }
+}
