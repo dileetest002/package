@@ -3,6 +3,6 @@ namespace Dilee\Package;
 
 class Hello {
     public function world() {
-        return 'Hello world version 1.6';
+        return 'Hello world package2 version 1.0';
     }
 }
